@@ -91,4 +91,3 @@ Each node runs a `while` loop receiving messages until it has collected `TAG_DON
 | `TAG_LOOKUP_REP` | 2 | Lookup result sent back to the initiator |
 | `TAG_DONE` | 3 | Signals that a node has finished all its lookups |
 
-# Chord-Protocol-MPI
